@@ -1,0 +1,2 @@
+storage account:-https://todo2800.z13.web.core.windows.net/addTodo
+CDN link:-https://simple-todo.azureedge.net/addTodo

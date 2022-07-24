@@ -1,0 +1,11 @@
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Backend.exe
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\appsettings.json
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Backend.dll
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Backend.deps.json
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Backend.runtimeconfig.json
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Backend.pdb
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Infy\ToDo-assignment\code\Backend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
